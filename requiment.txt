@@ -1,0 +1,3 @@
+pip install django==4.2.9
+pip install mysqlclient==2.2.1
+python -m pip install Pillow
